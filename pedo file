@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main()
+
+{
+    int a,b,s;
+    a=5; b=5;   printf("%d,%d,%d\n",a,b,s);
+    s=a+b;  printf("%d,%d,%d\n",a,b,s);
+    s=a++ +b;   printf("%d,%d,%d\n",a,b,s);
+    s=--a +b;   printf("%d,%d,%d\n",a,b,s);
+    s=a-- +b;   printf("%d,%d,%d\n",a,b,s);
+    s=a+b;  printf("%d,%d,%d\n",a,b,s);
+    return 0;
+}
