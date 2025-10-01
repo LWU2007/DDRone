@@ -1,4 +1,4 @@
-In reinforced learning, there are 5 concepts that we have to understand before we dig any deeper into this subject.
+In reinforcement learning, there are 5 concepts that we have to understand before we dig any deeper into this subject.
 
 First and foremost, we have the agent; it is the learner and decision maker that interacts with the environment to achieve a specific goal. Its main purpose is to pick the best moves to achieve the highest reward.
 
