@@ -13,13 +13,28 @@ R = reward function (A function R(s,a,s′) that specifies the immediate reward 
 
 
 Once you've grasped the core of the Markov Decision Process, let us continue and see how the decision process for the Markov Decision Process is handled.
-1. Observation: the agent observes the current state "s[t]".
+1. Observation: The agent observes the current state "s[t]".
 2. Action Selection: Based on a defined policy "π", the agent selects an action "a[t]".
 - Policy is a rule that maps each state to the action (or a probability distribution over actions) the agent will choose in that state (π(s)=a).
 3. Transition: When the action "a[t]" is executed in the environment, it causes the system to transition into a new state "s[t+1]" according to the probability P(s[t+1]|s[t],a[t]).
 4. Reward: The agent receives an immediate reward "r[t+1]" based on the transition.
 5. Repeat: The cycle repeats again starting from "s[t+1]".
 
+
+
 Now you might be wondering, "Why do all this the first place? If you've found the end, why not just end it there?" Oh my silly reader, it's so funny to you to be saying that. We are here not to be satisfied with the status quo, we are here to maximize our time or in other words "OPTIMIZATION". 
 
 The ultimate goal in a Markov Decision Process is to reach the optimal policy (π∗) - the policy that maximizes the return over the long run.
+In order to do that, algorithms use value functions to estimate how "good" a state or a state-pair is:
+1. State-Value Function V(s): The expected return (total discounted reward) starting from state "s" and then following a specific policy π.
+2. Action-Value Function Q(s,a): The expected return starting state "s", taking action "a", and thereafter following policy "π". This function is often more useful because it directly tells the agent the expected value of taking a particular action in a particular state.
+
+Besides value functions, there is also an equation called the Bellman Optimality Equation.
+This equation periodically breaks down the optimal value function V*(s) into the immediate rewards plus the discounted optimal value of the next state.
+*insert equation*
+It essentially states that the optimal value of a state "s" is the reward for the best possible action "a", plus the discounted optimal value of the states "s′" that results from taking that action.
+
+
+In order to solve a Markov Decision Process, you first solve the optimal value function (V* or Q*) and then deriving the optimal policy (π*) from it. It's usually done by using these methods:
+1. Dynamic Programming (Value Iteration and Policy Iteration): Used when the full MDP model (P and R) is known. These iterative algorithms solve the Bellman equation.
+2. Reinforcement Learning (RL): Used when the full MDP model is unknown. A Reinforcement Learning agent interacts with the environment (the Markov Decision Process), learns by trial and error, and updates its value function or policy based on the experienced rewards. Examples include Q-Learning and SARSA.

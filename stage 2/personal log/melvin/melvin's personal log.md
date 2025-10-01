@@ -3,5 +3,5 @@
 https://drive.google.com/file/d/19jTXTTYf7TiZQD7Joq6ECmCK11WShvl3/view?usp=sharing
 -I finished researching on the fundementals of reinforcement learning
 
-1/10/2025 90.45PM
+1/10/2025 9.45PM-12.12AM(next day)
 -Reasearching on the mdp
