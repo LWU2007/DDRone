@@ -9,9 +9,8 @@ This has an advantage of:
 -the data collected always matches the agent's current policy (on-policy), avoiding data mismatch issues.
 
 But this also has a disadvantage of:
--requiring many real-world interactions, making it slow and costly.
 -the agent performing unsafe or highly suboptimal actions during the learning phase (i.e robots crashing).
--requiring continuous, real-time compute resources attached to the environment making it highly expensive to operate.
+-requiring continuous, real-time compute resources attached to the environment making it highly expensive and slow to operate.
 
 
 Second is through offline reinforcement learning; the agent solely focuses learning a policy of static and precollected dataset of experiences. The agent is not allowed to interact with the environment during the training process.
