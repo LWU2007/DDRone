@@ -5,3 +5,6 @@ https://drive.google.com/file/d/19jTXTTYf7TiZQD7Joq6ECmCK11WShvl3/view?usp=shari
 
 1/10/2025 9.45PM-12.12AM(next day)
 -Finished reasearching the mdp
+
+2/10/2025 9.40AM-
+-Completing the last pieces for RL ai

@@ -4,12 +4,12 @@ The Markov Decision Process or MDP for short is a framework built upon the Marko
 The Markov chain is defined by only its states and transition probability, while the Markov Decision Process also takes into account the action taken by the agent, the transition probability which is now influenced by the action taken, and also reward. Therse are all here to help introduce the element of decision making and control for the agent.
 
 So the Markov Decision Process at its core is defined by a tuple ⟨S,A,P,R,γ⟩
-S = state (The set of all possible situations or configurations the agent can be in. The state must satisfy the Markov property)
-A = actions (The set of all possible decisions or moves the agent can make. The available actions may vary depending on the current state)
-P = transition probability (A function P(s′∣s,a) that defines the probability of transitioning to the next state "s′" given the current state "s" and the action "a" taken. This is the random element of the environment)
-R = reward function (A function R(s,a,s′) that specifies the immediate reward (a numerical value, positive or negative) the agent receives after transitioning from state s to state s′
+- S = state (The set of all possible situations or configurations the agent can be in. The state must satisfy the Markov property)
+- A = actions (The set of all possible decisions or moves the agent can make. The available actions may vary depending on the current state)
+- P = transition probability (A function P(s′∣s,a) that defines the probability of transitioning to the next state "s′" given the current state "s" and the action "a" taken. This is the random element of the environment)
+- R = reward function (A function R(s,a,s′) that specifies the immediate reward (a numerical value, positive or negative) the agent receives after transitioning from state s to state s′
  by taking action a)
-γ = discount factor (A value between 0 and 1 that represents the importance of future rewards compared to immediate rewards. A value near 0 makes the agent "myopic" (focusing only on immediate rewards), while a value near 1 makes it "far-sighted" (considering long-term consequences))
+- γ = discount factor (A value between 0 and 1 that represents the importance of future rewards compared to immediate rewards. A value near 0 makes the agent "myopic" (focusing only on immediate rewards), while a value near 1 makes it "far-sighted" (considering long-term consequences))
 
 
 Once you've grasped the core of the Markov Decision Process, let us continue and see how the decision process for the Markov Decision Process is handled.

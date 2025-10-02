@@ -1,4 +1,4 @@
-We're finally done with the fundemental of reinforcement learning, now is time to see some examples of this ai used in real-world applications.
+We're finally done with the fundementals of reinforcement learning, now is time to see some examples of this ai used in real-world applications.
 
 1. Simulated Starship Landing: While SpaceX uses traditional and highly control methods for its operational rocket landings like the Falcon 9, numerous deep RL projects have been conducted to test the vertical landing of the Starship.
 2. OpenAI Five: A team of five coordinated RL agents trained to play DOTA2. It once beat a world champion team (OG) 2-0 in 2019.
