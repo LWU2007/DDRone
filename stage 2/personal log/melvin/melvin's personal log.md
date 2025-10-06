@@ -9,3 +9,11 @@ https://drive.google.com/file/d/19jTXTTYf7TiZQD7Joq6ECmCK11WShvl3/view?usp=shari
 2/10/2025 9.40-11.39AM
 - Completing the last pieces for RL ai
 https://drive.google.com/file/d/1UQFIV7oZ9UwuiX6PCDc3NYZSq4Xjk_o_/view?usp=sharing
+
+6/10/2025 2.00-3.00PM
+- Had a meeting to discuss whawt to prepare in stage 2
+https://drive.google.com/file/d/1It7CavY3udkZxJncpa0xwJ5sewlfjQsC/view?usp=sharing
+
+6/10/2025 10.00-11.00PM
+- Made my first ai project in scratch
+https://drive.google.com/file/d/12F072tEWwjbEDEJ-bJd7U7CfPXf0TVy3/view?usp=sharing
