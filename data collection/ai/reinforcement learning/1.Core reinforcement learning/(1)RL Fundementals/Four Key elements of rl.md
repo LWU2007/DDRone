@@ -1,9 +1,9 @@
 Once you've grasped the 5 basic concepts of reinforcement learning, there are also four policies that we have to understand.
 
-One of them being policy (π); it's basically the agent's strategy book. It maps observed states (s) of the environment to the action (a) it takes when in those states. In simple terms, it is the "brain" that is used to fin the optimal policy (π∗) or maximizes the agent's expected cumulative reward over the long term.
+One of them being policy (π); it defines the learning agent’s way of behaving at a given time. Roughly speaking, a policy is a mapping from perceived states of the environment to actions to be taken when in those states.
 
-After that is the reward signal (R[t]); it is the immediate, scalar feedback that the agent receives from the environment after taking an action. It is the sole indicator of the immediate desirability of the agent's action.
+After that is the reward signal (R[t]); it defines the goal in a reinforcement learning problem. On each time step, the environment sends to the reinforcement learning agent a single number, a reward. The agent’s sole objective is to maximize the total reward it receives over the long run.
 
-Next up on the list is called the value function; it is a mathematical tool that estimates the expected cumulative reward an agent can recieve from a given state or state-action pair while following a particular policy (strategy). It serves as a guide for the agent to evaluate the long term desirability of different states or actions, helping it make decisions that maximize total future rewards.
+Next up on the list is called the value function; it specifies what is good in the long run. Roughly speaking, the value of a state is the total amount of reward an agent can expect to accumulate over the future, starting from that state.
 
-Lastly is model; it is a representation that allows the agent to predict the next state and the reward it will receive if it takes a particular action from a given state. Simply put, the model answers the question: "What will happen if I take action "a" in state "s"?"
+Lastly is model; it is something that mimics the behavior of the environment, or more generally, that allows inferences to be made about how the environment will behave.

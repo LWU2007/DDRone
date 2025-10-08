@@ -17,3 +17,13 @@ https://drive.google.com/file/d/1It7CavY3udkZxJncpa0xwJ5sewlfjQsC/view?usp=shari
 6/10/2025 10.00-11.00PM
 - Made my first ai project in scratch
 https://drive.google.com/file/d/12F072tEWwjbEDEJ-bJd7U7CfPXf0TVy3/view?usp=sharing
+
+8/10/2025 2.00-4.00PM
+- Created a script and video for ai for kids with the help of ryuichi
+- managed to convince Powerbank's cto (Adhika) to adopt github repository 
+
+8/10/2025 8.00-99.24PM
+- Fixing the wording for the study material
+
+almost everyday
+- preaching and teaching other teams to adopt github repository for how seamless it is to use.
