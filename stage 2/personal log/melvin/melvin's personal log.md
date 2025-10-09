@@ -22,8 +22,11 @@ https://drive.google.com/file/d/12F072tEWwjbEDEJ-bJd7U7CfPXf0TVy3/view?usp=shari
 - Created a script and video for ai for kids with the help of ryuichi
 - managed to convince Powerbank's cto (Adhika) to adopt github repository 
 
-8/10/2025 8.00-99.24PM
+8/10/2025 8.00-9.24PM
 - Fixing the wording for the study material
+
+9/10/2025 2.45-4.25PM
+- Tinkered with lexue 
 
 almost everyday
 - preaching and teaching other teams to adopt github repository for how seamless it is to use.
