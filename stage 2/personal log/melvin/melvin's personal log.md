@@ -28,5 +28,8 @@ https://drive.google.com/file/d/12F072tEWwjbEDEJ-bJd7U7CfPXf0TVy3/view?usp=shari
 9/10/2025 2.45-4.25PM
 - Tinkered with lexue 
 
+11/10/2025 9.50-10.30PM
+- Me, Roderick, and Lance quickly zipped the status report and discussed on what we should do on the next meeting
+
 almost everyday
 - preaching and teaching other teams to adopt github repository for how seamless it is to use.
