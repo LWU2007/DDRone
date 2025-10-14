@@ -31,5 +31,13 @@ https://drive.google.com/file/d/12F072tEWwjbEDEJ-bJd7U7CfPXf0TVy3/view?usp=shari
 11/10/2025 9.50-10.30PM
 - Me, Roderick, and Lance quickly zipped the status report and discussed on what we should do on the next meeting
 
+14/10/2025 3.00-7.00PM
+- Held another meeting to start doing work on stage 2
+https://drive.google.com/file/d/1WCZE3NJrCgtFWNF3UC2Y_gHPMkZFfIcv/view?usp=drive_link
+- Decide to do the optional presentation based on the video I recorded on 8/10/2025
+
+14/10/2025 11.15-11.45PM
+- Finished my work for the test bank 
+
 almost everyday
 - preaching and teaching other teams to adopt github repository for how seamless it is to use.
