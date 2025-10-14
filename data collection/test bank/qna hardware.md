@@ -5,57 +5,57 @@ Which of the following hardware components is most commonly used to accelerate d
  - B. Graphics Processing Unit (GPU)
  - C. Hard Disk Drive (HDD)
  - D. Sound Card
-✅ Correct Answer: B. GPU
+- ✅ Correct Answer: B. GPU
  Explanation: GPUs are massively parallel processors that handle the large matrix multiplications and tensor operations required for deep learning more efficiently than CPUs.
 
 Why are GPUs better than CPUs for training neural networks?
- A. GPUs have larger hard drives
- B. GPUs use less power than CPUs
- C. GPUs have thousands of cores optimized for parallel computation
- D. GPUs run at higher clock speeds than CPUs
-✅ Correct Answer: C. GPUs have thousands of cores optimized for parallel computation
+ - A. GPUs have larger hard drives
+ - B. GPUs use less power than CPUs
+ - C. GPUs have thousands of cores optimized for parallel computation
+ - D. GPUs run at higher clock speeds than CPUs
+- ✅ Correct Answer: C. GPUs have thousands of cores optimized for parallel computation
  Explanation: Neural network operations (like matrix multiplications) can be broken into many parallel tasks, which GPUs handle more effectively due to their highly parallel architecture.
 
 Why is AI acceleration/Deep learning known as ‘embarrassingly parallel'?
- I. Because little or no effort is needed to split the problem into a number of parallel tasks.
- II. Because GPUs are positioned parallel to the motherboard
- III. GPUs have thousands of cores optimized for parallel computation
-	A. I, III
- 	B. I, II
- 	C. I
- 	D. I, II, III
-✅ Correct Answer: C. GPUs have thousands of cores optimized for parallel computation
+ - I. Because little or no effort is needed to split the problem into a number of parallel tasks.
+ - II. Because GPUs are positioned parallel to the motherboard
+ - III. GPUs have thousands of cores optimized for parallel computation
+	- A. I, III
+ 	- B. I, II
+ 	- C. I
+ 	- D. I, II, III
+- ✅ Correct Answer: C. GPUs have thousands of cores optimized for parallel computation
  Explanation: Neural network operations (like matrix multiplications) can be broken into many parallel tasks, which GPUs handle more effectively due to their highly parallel architecture.
 
 Which of the following best describes the role of high-bandwidth memory (HBM) in AI accelerators?
- A. It replaces the GPU cores for faster computation
- B. It provides very fast data transfer between memory and compute units
- C. It acts as permanent storage for trained models
- D. It controls data center cooling systems
-✅ Correct Answer: B. It provides very fast data transfer between memory and compute units Explanation: HBM is placed close to the processor die to minimize latency and maximize bandwidth, enabling faster feeding of data to GPUs or TPUs
+ - A. It replaces the GPU cores for faster computation
+ - B. It provides very fast data transfer between memory and compute units
+ - C. It acts as permanent storage for trained models
+ - D. It controls data center cooling systems
+- ✅ Correct Answer: B. It provides very fast data transfer between memory and compute units Explanation: HBM is placed close to the processor die to minimize latency and maximize bandwidth, enabling faster feeding of data to GPUs or TPUs
 
 Which interconnect technology is commonly used to link multiple GPUs together in large AI training clusters to minimize communication bottlenecks?
- A. PCIe Gen 2
- B. NVLink
- C. SATA
- D. Thunderbolt
-✅ Correct Answer: B. NVLink
+ - A. PCIe Gen 2
+ - B. NVLink
+ - C. SATA
+ - D. Thunderbolt
+- ✅ Correct Answer: B. NVLink
  Explanation: NVLink (developed by NVIDIA) offers much higher bandwidth than PCIe, allowing multiple GPUs to share memory and communicate quickly, which is critical for scaling training across many devices.
  
 When using many GPUs together to train a large AI model, what is one common problem that can slow training down?
- A. The GPUs run out of power instantly
- B. Data transfer between GPUs can become slower and take more time
- C. The GPUs stop working after a few hours
- D. The model automatically finishes training faster
-✅ Correct Answer: B. Data transfer between GPUs can become slower and take more time
+ - A. The GPUs run out of power instantly
+ - B. Data transfer between GPUs can become slower and take more time
+ - C. The GPUs stop working after a few hours
+ - D. The model automatically finishes training faster
+- ✅ Correct Answer: B. Data transfer between GPUs can become slower and take more time
  Explanation: When many GPUs are used together, sending data back and forth between them can become a bottleneck if communication isn’t fast enough.
  
 Why do companies use special AI chips like TPUs or advanced GPUs like the H100 for large AI projects?
- A. Because they look cooler
- B. Because they are slower but easier to use
- C. Because they are designed to handle AI tasks faster and more efficiently
- D. Because they are the only chips that can connect to the internet
-✅ Correct Answer: C. Because they are designed to handle AI tasks faster and more efficiently
+ - A. Because they look cooler
+ - B. Because they are slower but easier to use
+ - C. Because they are designed to handle AI tasks faster and more efficiently
+ - D. Because they are the only chips that can connect to the internet
+- ✅ Correct Answer: C. Because they are designed to handle AI tasks faster and more efficiently
  Explanation: Custom AI chips have special designs that speed up training and save energy, which is useful for very large models.
 
 
