@@ -3,6 +3,9 @@ We're finished with the fundementals of reinforcement learning. Now it's time to
 The Markov Decision Process or MDP for short is a framework built upon the Markov Chain which is a stochastic process that satisfies the Markov property, meaning the probability of transitioning to the next state depends only on the current state, and not on the sequence of events that preceded it (it's "memoryless").
 The Markov chain is defined by only its states and transition probability, while the Markov Decision Process also takes into account the action taken by the agent, the transition probability which is now influenced by the action taken, and also reward. Therse are all here to help introduce the element of decision making and control for the agent.
 
+If you want to learn more about the markov chain, you could watch this video:
+- https://www.youtube.com/watch?v=KZeIEiBrT_w
+
 So the Markov Decision Process at its core is defined by a tuple ⟨S,A,P,R,γ⟩
 - S = state (The set of all possible situations or configurations the agent can be in. The state must satisfy the Markov property)
 - A = actions (The set of all possible decisions or moves the agent can make. The available actions may vary depending on the current state)
