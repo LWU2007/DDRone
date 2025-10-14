@@ -1,10 +1,10 @@
 MULTIPLE CHOICE QUESTION
 
 Which of the following hardware components is most commonly used to accelerate deep learning training?
- A. Central Processing Unit (CPU)
- B. Graphics Processing Unit (GPU)
- C. Hard Disk Drive (HDD)
- D. Sound Card
+ - A. Central Processing Unit (CPU)
+ - B. Graphics Processing Unit (GPU)
+ - C. Hard Disk Drive (HDD)
+ - D. Sound Card
 ✅ Correct Answer: B. GPU
  Explanation: GPUs are massively parallel processors that handle the large matrix multiplications and tensor operations required for deep learning more efficiently than CPUs.
 
