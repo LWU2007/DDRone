@@ -92,8 +92,7 @@ Explanation: TPUs and similar accelerators are optimized specifically for AI ope
 
 OPEN-ENDED QUESTIONS
 
-1. 
-Question:
+1. Question:
  Explain why using multiple GPUs or AI accelerators can speed up training for large models, and describe one challenge that arises when scaling to many devices.
 Expected Points to Cover:
 
@@ -103,8 +102,7 @@ Expected Points to Cover:
 
 
 
-2. 
-Question:
+2. Question:
  Compare the roles of GPUs and specialized accelerators (like TPUs or ASICs) in large-scale AI systems. What are the advantages and trade-offs of each?
 Expected Points to Cover:
 - GPUs: flexible, programmable, widely available, good for both training & research
