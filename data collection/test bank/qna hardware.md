@@ -62,31 +62,31 @@ Why do companies use special AI chips like TPUs or advanced GPUs like the H100 f
 TRUE OR FALSE
 
 Statement: GPUs are widely used in AI because they can process many operations in parallel.
-✅ Answer: True
+- ✅ Answer: True
 Explanation: Parallelism is the main reason GPUs accelerate deep learning — they can handle thousands of simultaneous operations efficiently.
 
 Statement: CPUs are generally faster than GPUs for training deep neural networks.
-✅ Answer: False
+- ✅ Answer: False
 Explanation: While CPUs are better for general tasks, GPUs significantly outperform them in parallelized mathematical operations common in neural network training.
 
 Statement: High-bandwidth memory (HBM) helps reduce data transfer bottlenecks between the processor and memory in AI accelerators.
-✅ Answer: True
+- ✅ Answer: True
 Explanation: HBM provides very high data throughput, which is essential for feeding data to GPU/TPU cores without slowing computation.
 
 Statement: ASIC-based AI accelerators can be reprogrammed for different neural network architectures easily.
-✅ Answer: False
+- ✅ Answer: False
 Explanation: Unlike FPGAs or GPUs, ASICs are hardwired for specific tasks, so they are extremely efficient but not easily reprogrammable.
 
 Statement: Scaling AI training across multiple accelerators is mostly limited by computation power, not communication bandwidth.
-✅ Answer: False
+- ✅ Answer: False
 Explanation: As systems scale, communication and synchronization overhead (e.g., gradient exchange) often becomes the primary bottleneck, not raw compute power.
 
 When many GPUs are used together, moving data between them can become a problem that slows down training.
-✅ Answer: True
+- ✅ Answer: True
 Explanation: Communication between devices can become a bottleneck if not managed efficiently.
 
 Special AI chips like TPUs are built to make AI training faster and use less energy compared to regular GPUs.
-✅ Answer: True
+- ✅ Answer: True
 Explanation: TPUs and similar accelerators are optimized specifically for AI operations, making them more efficient for large-scale workloads.
 
 
