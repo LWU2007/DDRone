@@ -43,10 +43,10 @@ multiple choice questions:
 + model
 + agent (ANSWER)
 
-- Where is the Markov Delivery Process derived from?
+- Where is the Markov Decision Process derived from?
 + Markov's rule
-+ Pizza hut delivery
-+ Stein's delivery process
++ Stein's gate rule
++ Stein's decision process
 + Markov chain (ANSWER)
 
 - This is part of the Markov Chain
@@ -74,7 +74,7 @@ open ended questions
 - is online or offline reinforcement learning the better option in training your machine learning project?
   These solely depend on what project you are trying to create, there is no one size fits all solution to this. While offline is best suited for scenarios where online interaction with the environment is costly, dangerous, or unethical. It excels at learning policis from large pre-collected data sets wwithout needing to experiment in real time. While online is best suited for problems that require real-time, sequential decision-making in dynamic environments where an agent learns from direct interaction and can adapt to changing data. This is ideal for applications such as robotics and real-time control systems due to it being able to adapt its policy at real time due to the uncertain and unpredictable feedbacks.
 
-- explain how the Markov Delivery Chain is connected to the Markov Chain! (optional: explain why they use the Markov Chain instead of any other probability processes such as the Possion Process)
-  The Markov Delivery Chain is built upon the Markov Chainby adding the element agent, reward, and action which now influences the transition probability. All of these elements added to the Markov Chain makes it a framework for decision making the agent is able to make its own decision which adds an element of choice to the random probability states of the base Markov Chain.
+- explain how the Markov Decision Chain is connected to the Markov Chain! (optional: explain why they use the Markov Chain instead of any other probability processes such as the Possion Process)
+  The Markov Decision Chain is built upon the Markov Chainby adding the element agent, reward, and action which now influences the transition probability. All of these elements added to the Markov Chain makes it a framework for decision making the agent is able to make its own decision which adds an element of choice to the random probability states of the base Markov Chain.
 
   (Optional) The markov chain is used instead of any other processes is solely because that the probability of transitioning to another state from the current state is solely dependent on the current state and making it "memoryless". This "memoryless" property makes systems easier to analyse and predict, even help simplify calculations and help reduce the amount of data needed.
