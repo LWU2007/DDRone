@@ -1,3 +1,1 @@
-nonono the shit i wrote disappeared ah whatever ill try again ig
-
 A network is a system that connects various devices to enable communication. These devices cover both hardware, including computers and our smartphones, as well as software, such as security systems, or the system that runs the McDonalds ordering kiosk. In the context of Hardware and behavioural AI, Networks essentially allow the Hardware and AI to connect with each other to input and output information.
