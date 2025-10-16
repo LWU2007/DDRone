@@ -44,6 +44,7 @@ https://drive.google.com/file/d/1WCZE3NJrCgtFWNF3UC2Y_gHPMkZFfIcv/view?usp=drive
 
 16/10/2025 3.00-6.00PM
 - Did a meeting to do work on the ppt, script, study guide, and lexue
+https://drive.google.com/file/d/1hvftHhBE-cIUqHktuoNN6LHFiDuYs_hP/view?usp=sharing
 - Finished my part for the study guide, ppt, and script
 - Uploaded the files for stage 1 to lexue lab
 
