@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. What layer of the OSI framework do bridges use?
 a. Layer 1, 2 and 3
 b. All 7
@@ -98,3 +99,6 @@ True
 - Breaks messages into packets for transmission.
 - Ensures packets are delivered in the correct order.
 - Handles error detection and retransmission of lost packets.
+=======
+
+>>>>>>> df31785bef9c3db29ade01a681edc2ac27cc1a7c
