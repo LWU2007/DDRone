@@ -1,0 +1,11 @@
+Note to anyone reading:
+Shau Hon Lau writing here. The intended order of reading is as follows:
+1. NetworkIntro.md
+2. OSI Models.md
+3. TypesOfNetworks.md
+4. Internet&TCP
+  1. Internet_intro.md
+  2. Internet&OSILayers.md
+  3. Internet_protocols.md
+  4. FactsThatIDidn'tKnowHowToCategorise.md
+5. NetworkHardware.md

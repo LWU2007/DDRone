@@ -7,6 +7,7 @@
 + https://huggingface.co/learn/deep-rl-course/en/unitbonus3/offline-online
 
 - Markov chain
++ https://www.youtube.com/watch?v=KZeIEiBrT_w
 + https://sanchittanwar75.medium.com/markov-chains-and-markov-decision-process-e91cda7fa8f2
 + https://towardsdatascience.com/foundational-rl-markov-states-markov-chain-and-markov-decision-process-be8ccc341005/#:~:text=Markov%20chain%20is%20a%20finite,from%20one%20state%20to%20another.
 + https://builtin.com/machine-learning/markov-decision-process#:~:text=A%20Markov%20decision%20process%20(MDP,or%20less%20stochastic%20(random.)
