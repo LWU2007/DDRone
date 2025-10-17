@@ -48,5 +48,9 @@ https://drive.google.com/file/d/1hvftHhBE-cIUqHktuoNN6LHFiDuYs_hP/view?usp=shari
 - Finished my part for the study guide, ppt, and script
 - Uploaded the files for stage 1 to lexue lab
 
+17/10/2025 11.00-12.08PM
+- finished creating the project log
+https://drive.google.com/file/d/1sX3TIqsPN7kD7BYC8XCKSkM-k0D5cWoZ/view?usp=sharing
+
 almost everyday
 - preaching and teaching other teams to adopt github repository for how seamless it is to use.
