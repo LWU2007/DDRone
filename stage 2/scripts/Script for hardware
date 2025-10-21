@@ -1,0 +1,14 @@
+1.Introduce the significance of hardware in AI acceleration, 
+- “Good morning everyone, today I will be presenting DDRone‘s presentation on hardware.”
+
+2.Explanation about the differences in CPUs and GPUs
+
+3.Give example to make understanding the concept easier, 
+- “Kitchen, head chef, junior assistant.”
+
+4.Then, give an insight into the inner workings of GPU, 
+- “Streaming Multiproccesor”
+
+5.The SM for example, contains CUDA, Tensor, and RT cores (Streaming Multiprocessor)
+
+6.The end
