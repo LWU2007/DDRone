@@ -63,3 +63,19 @@ https://drive.google.com/file/d/1hNOczeY1XTioV-7U5Ms_L_C0uMMXEv5U/view?usp=shari
  1. finishing up moving the data to the study guide
  2. start moving the test bank to lexue
  3. receiving feedback to improve everything that needs to be improved
+
+ What was done? By whom?
+ 1. Everyone finished with recording and making videos for their part
+ 2. Keke is finishing up with the ppt-s
+ 
+ When was it done?
+ 15:00 – 19:00, 21/10/2025
+
+ What are the lessons learned? 
+ 1. sometimes having fun is what matters withing a group project
+
+ What are the issues to be resolved?
+ 1. learn to understand each other more
+
+ Next steps?
+ 1. keep working on our teamwork
