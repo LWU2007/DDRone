@@ -20,4 +20,5 @@
 - Finished my part for the study guide, ppt, and script
 - Uploaded the files for stage 1 to lexue lab
 
-10/16/2025 3.00PM-6.00PM
+10/18/2025 3.00PM-6.00PM
+- more research on GPUs 
