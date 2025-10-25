@@ -1,9 +1,9 @@
-Meeting 1 – 14/10/2025
+Meeting 3 – 10/6/2025
 	
-Time/Location/Attendees 	= 15:00 – 18:00/ Basement of International dorm (b101) Or Zoom Meeting  / Melvin, Lance, Keke, Vicson, (for a short while) Sean.
+Time/Location/Attendees  = 14:00 – 15:00/ Basement of International dorm (b101) Or Zoom Meeting  / Melvin, 	Lance, Roderick, Sean, Vicson.
 	
-Agenda 	= Complete the task for Stage 2, particularly the study guide. 
+Agenda 	= discuss how to do the stage 2 and getting used to github repository, github desktop and VS code. 
 	
-Outcome 	=. 2 members are unable to attend the meeting due to conflicting schedule. Able to start on the test bank and study guide
+Outcome 	= Everybody is briefed with what is needed to be done with the next phase (phase 2) and all members understand how to “commit” and “push” to the repository on VS code. 
 	
-Next 	steps = Continue completing the PPT, optional presentation and study guide. 
+Next 	steps =  complete current status by tomorrow, complete the data collection, create the ppt and video, create study guide (in depth next meeting), create lexue (discuss next meeting)
