@@ -42,3 +42,6 @@ missed the meeting to go for volleyball practise for the ongoing competition
 missed yet another meeting because i had class at the time (THIS ONES NOT MY FAULT OK)
 
 redoing all of my previous work currently, hopefully i remember to commit and push this time : D
+
+21/10/2025
+gather for another meeting to discuss and operate on stage 2 of the project. Recorded a video discussing and teaching my part of the project (Supervised, unsupervised, and semi-supervised learning). Work was quick and efficient.
