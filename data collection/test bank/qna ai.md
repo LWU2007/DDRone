@@ -27,6 +27,23 @@ tf questions:
 - One of the core fundementals of reinforcement learning is the agent itself.
   TRUE
 
+- Unsupervised Learning requires labeled data 
+  FALSE
+
+- Supervised learning is mostly used for Classification and Regression
+  TRUE
+
+- Unsupervised learning is the cheaper alternative of the two methods
+  TRUE
+
+- Clustering is often used at the pre-processing data stage
+  FALSE
+
+- Semi-supervised learning is a combination of Supervised learning and Unsupervised learning
+  TRUE
+
+- Unsupervised learning requires a researcher to nurture the agent
+  False 
 
 
 multiple choice questions:
@@ -67,6 +84,24 @@ multiple choice questions:
 + it can interact with the environment while training
 + it is cheaper than offline reinforcement learning (ANSWER)
 
+- What method is often used for the pre-processing data stage?
++ Clustering
++ Dimensionality Reduction (ANSWER)
++ Regression
++ Association Rule Mining
+
+- Which type of machine learning is often used for classification?
++ Supervised Learning (ANSWER)
++ Unsupervised Learning
++ Semi-supervised Learning
++ Reinforcement Learning
+
+- In machine learning, who is refered to as the 'agent'?
++ the data package
++ you, the reader 
++ the AI machine (ANSWER)
++ the researcher 
+
 
 
 open ended questions
@@ -78,3 +113,9 @@ open ended questions
   The Markov Decision Chain is built upon the Markov Chainby adding the element agent, reward, and action which now influences the transition probability. All of these elements added to the Markov Chain makes it a framework for decision making the agent is able to make its own decision which adds an element of choice to the random probability states of the base Markov Chain.
 
   (Optional) The markov chain is used instead of any other processes is solely because that the probability of transitioning to another state from the current state is solely dependent on the current state and making it "memoryless". This "memoryless" property makes systems easier to analyse and predict, even help simplify calculations and help reduce the amount of data needed.
+
+- explain the similarities and differences between Supervised learning and Unsupervised learning.
+
+  Similarities: they are both methods of machine learning that feed off of patterns it uncovers and collects from given data.
+
+  differences: supervised learning(SL) requires labeled data, while Unsupervised learning (UL) doesnt. SL is used for classification and regression, while UL is for clustering, dimensionality reduction, and association rule mining. 
