@@ -45,3 +45,6 @@ redoing all of my previous work currently, hopefully i remember to commit and pu
 
 21/10/2025
 gather for another meeting to discuss and operate on stage 2 of the project. Recorded a video discussing and teaching my part of the project (Supervised, unsupervised, and semi-supervised learning). Work was quick and efficient.
+
+25/10/2025
+spend an hour and a half trying to fix whatevers wrong with either github or my connection, because fetching seems to come to a complete halt at 8% no matter what i do, and even trying to clone another repository stops at 63% (because why would it work as intended). currently still havent found a fix yet but im uploading all this via the github website. I hate my computer.
