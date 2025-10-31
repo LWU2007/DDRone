@@ -5,6 +5,9 @@ What was done? By whom?
  Next steps?
  //copy paste
 
+
+*LOG 1*
+
  What was done? By whom?
  - Keke redisigned the study guide to make it look better and gave some ideas to improve the study guide (such as adding a glossary that we will do on stage 3)
   *you'll show your proof*
@@ -20,7 +23,7 @@ What was done? By whom?
 - Melvin designed the interactive system and moved the hardware testbank to the right Lexue (Very Sorry Lance)
 
  When was it done?
-- 27/10/2025
+- 26/10/2025
 
  What are the lessons learned/refections on the project?
 - Never doing this again would really help
@@ -37,3 +40,42 @@ What was done? By whom?
  Next steps?
  - How to be a better leader
  - How to coordinate better with each team member
+
+
+
+*LOG 2*
+
+What was done? By whom?
+- we discussed what to do and what to improve
+
+ When was it done?
+- 28/10/2025
+
+ What are the lessons learned/refections on the project?
+- we made alot of mistakes on stage 2
+
+ What are the issues to be resolved?
+ - improve the stage 2 tasks
+
+ Next steps?
+ - waiting for laoshi's comments
+
+
+
+*LOG 3*
+
+ What was done? By whom?
+ - we discussed what to do moving forward
+
+ When was it done?
+ - 30/10/2025
+
+ What are the lessons learned/refections on the project?
+-everyone agreed we should redo the videos and improve the quality of the study guide
+
+ What are the issues to be resolved?
+ - study guide
+ - videos
+
+ Next steps?
+ - improve the major problems we're facing

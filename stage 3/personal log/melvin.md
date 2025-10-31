@@ -34,3 +34,21 @@ https://drive.google.com/file/d/1R93N6sDDwB4NrYx7VoetG-nE6yxzB3_C/view?usp=shari
 - created the meeting summaries 1
 - created the project log until today
 https://drive.google.com/file/d/1dU0-gJeR2hRs4WAnzFmxlNP9-kMQJsH3/view?usp=sharing
+
+28/10/2025 3.00-6.00PM
+- directed the team on what to do with stage 3
+- added glossary
+https://drive.google.com/file/d/13bJfjVa7MALNtRP1zG_UZkhGZOubpzjx/view?usp=drive_link
+- fixed the case studies
+
+30/10/2025 3.00-7.00PM
+- added starting and end of chapter
+https://drive.google.com/file/d/1Ahcy9LfTH5h2Xi78juzystpR7iViD9oN/view?usp=sharing
+- moved some of the pages to make it look cleaner
+- directed what the team should do and gave them clear deadlines to finish the work by
+
+31/10/2025 4.00-5.00PM
+- created the meeting summaries 2 and 3
+- updated the project log
+https://drive.google.com/file/d/1euWH3UGctt1uJV3S9GpKR-wGF9ZpHab_/view?usp=sharing
+
