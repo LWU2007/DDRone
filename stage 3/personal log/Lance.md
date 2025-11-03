@@ -7,8 +7,8 @@
 -	Fixing the study guide 
 -	Inputting pictures into study guide
 
-26 October, 2025 –> 8.22PM – 12.32
--	For this duration, I worked together with Melvin to finish up loos ends from stage 2
+26 October, 2025 –> 8.22PM – 12.32PM
+-	For this duration, I worked together with Melvin to finish up loose ends from stage 2
 -	Inputting test bank into Lexue
 -	Making flash cards
 -	Make some last minute improvements on the study guide
@@ -20,6 +20,12 @@
 -	Finished PPT and video revision for Stage 2
 
 1 November, 2025 -> 2.32PM – 8.05PM
--	Making more study guide improvements, 
+-	Making more study guide improvements for stage 3
+-	Lots of new information
+-	Improved formatting of the texts
+-	Improved the structure of the Study guide
+-	Made the study guide more presentable by adding more pictures
 
-2 November, 2025 -> 3.06PM – 8.05PM
+2 November, 2025 -> 7.36PM – 9.05PM
+- Finally made the video
+- Took some tries, but i managed to make it work
