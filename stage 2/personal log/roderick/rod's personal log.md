@@ -48,3 +48,9 @@ gather for another meeting to discuss and operate on stage 2 of the project. Rec
 
 25/10/2025
 spend an hour and a half trying to fix whatevers wrong with either github or my connection, because fetching seems to come to a complete halt at 8% no matter what i do, and even trying to clone another repository stops at 63% (because why would it work as intended). currently still havent found a fix yet but im uploading all this via the github website. I hate my computer.
+
+28/10/2025
+Because I had a lecture at the time, arrived late to the meeting. Caught back up on the progress update and gave my personal insight on how to improve our study guide, as well as how we should progress in the future. Tasked with upgrading the study guide and re-recording it.
+
+1/11/2025
+Due to the family matters, was unable to complete all that was tasked of me and had to ask Melvin for help. Recorded everything except for reinforcement learning in behavioral AI, and typed out the script accordingly for vicson to make subtitles. 
