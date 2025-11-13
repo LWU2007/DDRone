@@ -1,4 +1,4 @@
-Meeting 2 – 21/10/2025
+Meeting 3 – 21/10/2025
 	
 Time/Location/Attendees 	= 15:00 – 19:00/ Basement of International dorm (b101)   / Melvin, Lance, Keke, Vicson, Sean, Roderick.
 	
