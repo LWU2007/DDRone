@@ -15,5 +15,8 @@ November 14, 2025  (4.00 - 6.00)
 - added some pictures too
 - last checks for some of the lexue quiz and flashcards
 
+November 21, 2025  (8.00 - 9.30)
+- Helped shaun in making 10 questions about AI, Hardware, and networks
+
 November 24, 2025 (10.50 - 11.35)
 - Making this personal log
